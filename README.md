@@ -1,4 +1,4 @@
-# Sample Spring Boot Application
+# Basic Spring Boot Application
 
 ## Some Important Maven Commands
 
