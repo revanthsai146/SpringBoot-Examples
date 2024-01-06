@@ -1,3 +1,5 @@
+# Sample Spring Boot Application
+
 ## Some Important Maven Commands
 
 - `mvn clean` --for cleaning all files in target folder of project
