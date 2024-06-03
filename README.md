@@ -1,5 +1,3 @@
-# Basic Spring Boot Application
-
 ## Some Important Maven Commands
 
 - `mvn clean` --for cleaning all files in target folder of project
@@ -15,10 +13,8 @@
 
 - `mvn spring-boot:run --student.name=Revanth --student.age=23  male`
 
-### Commandline runner cannot able to differentiate optional and non-optional for this we need to write code manually for differentiate,arguments are directly pass to main method
+Commandline runner cannot able to differentiate optional and non-optional for this we need to write code manually for differentiate,arguments are directly pass to main method
 
-### Application runner can able to differentiate whether it is optional or non optional
-
-### because it is advanced version of commandline runner and it contain some inbuilt methods to differentiate
-
-### by using this runner we can access these arguments seperately
+Application runner can able to differentiate whether it is optional or non optional
+because it is advanced version of commandline runner and it contain some inbuilt methods to differentiate
+by using this runner we can access these arguments seperately
